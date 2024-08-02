@@ -20,8 +20,8 @@ Storm
 
 Lifie
 
-ivo
+Ivo
 
-cooler
+Cooler
 
 Anthony
