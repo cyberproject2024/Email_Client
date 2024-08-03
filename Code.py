@@ -1,16 +1,5 @@
-# This is where we will start to write the Python for creating the client. 
-# To install Kivy for windows in Visual Studio
-# 1: Open the terminal in Visual Studio
-# 2: type pip install kivy[full] and hit enter
+# First we need to install PyQt5
+# Open Terminal or CMD and type pip install PyQt5 and hit enter
 
-## imports basic app stuff from Kivy
-from kivy.app import *
-from kivy.uix.label import *
+# Next we need to download and install the Qt Designer from https://build-system.fman.io/qt-designer-download
 
-
-class Cyber_Sec_EmailApp(App):
-    def build(self):
-        label = Label(text='Cyber Email')
-        return label
-app = Cyber_Sec_EmailApp()
-app.run()
