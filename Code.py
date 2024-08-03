@@ -3,3 +3,6 @@
 
 # Next we need to download and install the Qt Designer from https://build-system.fman.io/qt-designer-download
 
+
+#imports all PyQt5 widgets
+from PyQt5.QtWidgets import *
