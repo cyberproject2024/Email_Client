@@ -4,8 +4,8 @@
 # 2: type pip install kivy[full] and hit enter
 
 ## imports basic app stuff from Kivy
-from kivy.app import App
-from kivy.uix.label import Label
+from kivy.app import *
+from kivy.uix.label import *
 
 
 class Cyber_Sec_EmailApp(App):
