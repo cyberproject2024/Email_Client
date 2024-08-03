@@ -14,7 +14,7 @@ Once everyone has done this I will change the README File to reflect information
 
 Ryan
 
-Tator
+Github
 
 Storm
 
