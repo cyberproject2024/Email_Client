@@ -1,4 +1,4 @@
-from email_client import EmailClient
+from EmailClient import EmailClient
 
 # Replace these with your actual email and server settings
 SMTP_SERVER = 'smtp.gmail.com.com'
@@ -15,7 +15,7 @@ client.send_email(
     to_address='julius.flow1@gmail.com',
     subject='Test Email',
     body='This is a test email sent from AnthonyF in Python.',
-    attachments=['path/to/file.txt']
+    attachments=[]
 )
 
 # Receiving emails
