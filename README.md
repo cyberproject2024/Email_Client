@@ -12,7 +12,7 @@ Step 4: open github desktop and view the changes made to the file. (Take note of
 Once everyone has done this I will change the README File to reflect information on the project.
 
 
-Ryan
+Github
 
 Github
 
